@@ -33,7 +33,7 @@ export default function Clue3() {
         for hands and hearts stand beside us."
       </p>
 
-      <p><b>Ciphered Clue (Bacon):</b> baaaa abaaa aabba aabbb baaba baaab abaaa aaabb aabaa abbab aabab baaba aabbb aabaa baaab baaba aaaaa aabba aabaa</p>
+      <p><b>Ciphered Clue (Bacon):</b> aaaab aabaa ababa abbab babaa baabb abbaa aaabb aabaa baaaa baaba aabbb aabaa ababa aaaaa ababb aabaa baaab aaaaa baaba aaaaa aaaab ababa aabaa</p>
 
       <input
         type="text"

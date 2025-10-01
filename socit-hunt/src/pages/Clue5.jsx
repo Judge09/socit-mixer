@@ -34,7 +34,7 @@ export default function Clue5() {
         and family never ends."
       </p>
 
-      <p><b>Ciphered Clue (ROT13):</b> FNB ybhatr</p>
+      <p><b>Ciphered Clue (ROT13):</b> oruvaq gur cubgb obbgu</p>
 
       <input
         type="text"
